@@ -7,6 +7,10 @@ Access this Binder by clicking the blue badge above or at the following URL:
 
 https://mybinder.org/v2/gh/Gigi1702/MachineLearningP/tree/main/HEAD
 
+This project is adapted form the tutorial "Your First Machine Learning Project in Python Step-By-Step" by Jason Brownlee.
+The tutorial can be accessed through this link: https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+
+
 
 ## Notes
 The `environment.yml` file should list all Python libraries on which your notebooks
