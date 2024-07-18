@@ -5,8 +5,7 @@ A Binder-compatible repo with an `environment.yml` file.
 
 Access this Binder by clicking the blue badge above or at the following URL:
 
-https://mybinder.org/v2/gh/Gigi1702/MachineLearningP/tree/main/HEAD
-
+https://mybinder.org/v2/gh/Gigi1702/MachineLearningP/HEAD
 This project is adapted form the tutorial "Your First Machine Learning Project in Python Step-By-Step" by Jason Brownlee.
 The tutorial can be accessed through this link: https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
 
